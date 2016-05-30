@@ -1,0 +1,10 @@
+F:\Projects\TEST\ForumGrabber\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\Forum.mdf
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\Forum_log.ldf
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\DAL.dll.config
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\DAL.dll
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\DAL.pdb
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\EntityFramework.dll
+F:\Projects\TEST\ForumGrabber\DAL\bin\Debug\EntityFramework.xml
+F:\Projects\TEST\ForumGrabber\DAL\obj\Debug\DAL.dll
+F:\Projects\TEST\ForumGrabber\DAL\obj\Debug\DAL.pdb
